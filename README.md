@@ -1,4 +1,4 @@
-# 基于深度学习的舌苔检测毕设（effcient_Net）
+# 基于深度学习的舌苔检测毕设（Effcient_Net）
 
 # Graduation design of tongue coating detection based on deep learning
 
